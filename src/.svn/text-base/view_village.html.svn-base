@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<meta http-equiv=Content-Type content="text/html;  charset=ISO-8859-1">
+<TITLE>view_village</TITLE>
+</HEAD>
+<BODY bgcolor="#59982C">
+<!-- URL's used in the movie-->
+<A HREF=javascript:window.close();></A> <!-- text used in the movie-->
+<!--%Created by: CLOSE--><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+ WIDTH="1000" HEIGHT="510" id="view_village" ALIGN="">
+ <PARAM NAME=movie VALUE="view_village.swf"> <PARAM NAME=quality VALUE=medium> <PARAM NAME=bgcolor VALUE=#59982C> <EMBED src="view_village.swf" quality=medium bgcolor=#59982C  WIDTH="1000" HEIGHT="510" NAME="view_village" ALIGN=""
+ TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+</OBJECT>
+</BODY>
+</HTML>
